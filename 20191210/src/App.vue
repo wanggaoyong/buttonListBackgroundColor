@@ -17,9 +17,9 @@ export default {
     return{
       flag:0,
       list:[
-        {donw:'down',up:'up'},
-        {donw:'',up:'up'},
-        {donw:'',up:'up'},
+        {donw:'down'},
+        {donw:''},
+        {donw:''},
       ]
     }
   },
